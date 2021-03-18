@@ -5,5 +5,6 @@
   "description": "Dieses Addon blockiert die Emotes des EmoteChat-Addons.",
   "version": 1.0,
   "author": "LocutusVonBorg",
-  "category": 1
+  "category": 1,
+  "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest/scale-to-width-down/150?cb=20190530235325"
 }
