@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "EmoteChatBlocker",
+  "mainClass": "borg.locutus.blocker.EmoteChatBlocker",
+  "description": "Dieses Addon blockiert die Emotes des EmoteChat-Addons.",
+  "version": 1.0,
+  "author": "LocutusVonBorg",
+  "category": 1
+}
